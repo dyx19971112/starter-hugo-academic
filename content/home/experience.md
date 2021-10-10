@@ -58,6 +58,20 @@ experience:
     * Company bank account verification
     * participating in inventory counting
     * participating in company data system verification
+
+  - title: Full-time Research Assistant
+    company: Institute of Big Data and Information Science, School of Economics and Management, USTB
+    company_url: ''
+    company_logo:
+    location: Beijing
+    date_start: '2020-07-01'
+    date_end: '2021-06-31'
+    description: |2-
+    * Participated in the daily operation, testing and training of the company's Internet financial products, involved credit financing, 
+account financing, bill financing, etc.
+    * By using Kunpeng & Shence data platform and SQL, analyzed production conditions and user behaviors, completed data weekly 
+and monthly reports, and provided advices for the department's digital operation strategy. 
+    
     
 design:
   columns: '2'
