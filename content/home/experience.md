@@ -45,6 +45,20 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
+  - title: Summer Intern
+    company: GuangFa security company
+    company_url: ''
+    company_logo: org-gf
+    location: Beijing
+    date_start: '2021-06-01'
+    date_end: '2021-08-30'
+    description: |2-
+         Mainly responsible for an IPO project in Guizhou. The main work content includes: 
+    
+         * Company bank account verification
+         * participating in inventory counting
+         * participating in company data system verification
+    
 design:
   columns: '2'
 ---
