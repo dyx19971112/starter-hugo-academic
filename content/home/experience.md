@@ -48,7 +48,7 @@ experience:
   - title: Summer Intern
     company: GuangFa security company
     company_url: ''
-    company_logo: org-gf
+    company_logo: org-x
     location: Beijing
     date_start: '2021-06-01'
     date_end: '2021-08-30'
