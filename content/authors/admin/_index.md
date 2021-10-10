@@ -1,7 +1,7 @@
 ---
 title: Yuxuan Deng
 role: Student of Master in Business Analytics, Financial Technology
-avatar_filename: body.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include mechine learning, time series analysis, etc.
 interests:
   - Artificial Intelligence
@@ -38,6 +38,8 @@ email: d.yuxuan@wustl.edu
 superuser: true
 highlight_name: true
 ---
-I am a student 
+I am a student in Olin business school, Wahington University in St. Louis, expect to graduate in 2022/5. My major is business analytics, track is financial technology, GPA is 3.8/4.0.
+
+I am keen on academic research
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
