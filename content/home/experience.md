@@ -66,10 +66,7 @@ experience:
     location: Beijing
     date_start: '2020-07-01'
     date_end: '2021-06-31'
-    description: |2-
-    Responsibilities include:
-    * Participated in the daily operation, testing and training of the company's Internet financial products, involved credit financing, account financing, bill financing, etc.
-    * By using Kunpeng & Shence data platform and SQL, analyzed production conditions and user behaviors, completed data weekly and monthly reports, and provided advices for the department's digital operation strategy. 
+    description: Participated in the daily operation, testing and training of the company's Internet financial products, involved credit financing, account financing, bill financing, etc. By using Kunpeng & Shence data platform and SQL, analyzed production conditions and user behaviors, completed data weekly and monthly reports, and provided advices for the department's digital operation strategy. 
     
   - title: Research Assistant
     company: CCB Supply Chain Financial Co., Ltd
