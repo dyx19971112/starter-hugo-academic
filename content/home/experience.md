@@ -35,6 +35,15 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
+  - title: Summer Intern
+    company: GuangFa security company
+    company_url: ''
+    company_logo: org-gf
+    location: Beijing
+    date_start: '2021-06-01'
+    date_end: '2021-08-30'
+    description: Mainly responsible for an IPO project in Guizhou. The main work content includes: 
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -58,7 +67,6 @@ experience:
     * participating in inventory counting
     * participating in company data system verification
     
- 
 design:
   columns: '2'
 ---
