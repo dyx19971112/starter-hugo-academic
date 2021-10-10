@@ -1,6 +1,7 @@
 ---
 title: Yuxuan Deng
 role: Student of Master in Business Analytics, Financial Technology
+avatar_filename: body.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
