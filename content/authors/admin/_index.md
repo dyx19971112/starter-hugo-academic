@@ -40,6 +40,6 @@ highlight_name: true
 ---
 I am a student in Olin business school, Wahington University in St. Louis, expect to graduate in 5/2022. My major is business analytics, track is financial technology, GPA is 3.8/4.0. 
 
-I am keen on academic research. When I was in high school, Beijing No.35 high school, I attendss
+I am keen on academic research. When I was in high school, Beijing No.35 high school, I attended a 1-year-long program with the Chiness Academy of Science, conducted a research on 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
