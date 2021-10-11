@@ -17,7 +17,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  filename: project_1.png
+  filename: "project_1.png"
 url_code: ""
 ---
 
