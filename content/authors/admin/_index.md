@@ -37,4 +37,4 @@ I am always keen on academic research. When I was in high school, Beijing No.35 
 
 For the future, a oppurtunity for PHD would be my dream I heading for.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dyxresume.pdf" "newtab" >}}resumé{{< /staticref >}}.
