@@ -37,7 +37,7 @@ experience:
         * participating in company data system verification
 
   - title: Full time Research Assistant
-    company:ustb
+    company: ustb
     company_url: ''
     company_logo:
     location: Beijing
