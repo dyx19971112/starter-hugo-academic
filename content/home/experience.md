@@ -25,7 +25,7 @@ experience:
         * participating in inventory counting
         * participating in company data system verification
 
-  - title: Full-time Research Assistant
+  - title: Full time Research Assistant
     company: Institute of Big Data and Information Science
     company_url: ""
     company_logo: null
