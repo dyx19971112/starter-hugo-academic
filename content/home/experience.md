@@ -30,11 +30,11 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-08-30'
     description: |2-
-    Mainly responsible for an IPO project in Guizhou. The main work content includes: 
+        Mainly responsible for an IPO project in Guizhou. The main work content includes: 
     
-    * Company bank account verification
-    * participating in inventory counting
-    * participating in company data system verification
+        * Company bank account verification
+        * participating in inventory counting
+        * participating in company data system verification
 
     
 design:
