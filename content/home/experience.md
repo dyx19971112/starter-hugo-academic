@@ -6,12 +6,12 @@ experience:
     company: Olin Business School, WashU
     company_url: ""
     company_logo: null
-    location: United States
+    location: St. Louis
     date_start: 2021-09-01
     date_end: 
     description: test
 
-  - title: Summer Interntest
+  - title: Summer Intern
     company: GuangFa security company
     company_url: ""
     company_logo: null
