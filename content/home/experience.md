@@ -35,7 +35,6 @@ experience:
         * test 
         * test
     
- 
 design:
   columns: '2'
 ---
