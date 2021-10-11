@@ -33,7 +33,7 @@ highlight_name: true
 ---
 Welcome! I am a student in Olin business school, Wahington University in St. Louis, expect to graduate in 5/2022. My major is business analytics, track is financial technology, GPA is 3.8/4.0. 
 
-I am always keen on academic research. When I was in high school, Beijing No.35 high school, I attended a 1-year-long program with the Chiness Academy of Science, conducted a research on botany statistics and published the paper on Bulletiin of Biology. Under my undergraduate stage on USTB, I am always keep looking for research oppurtunities, worked as RA for 3 project. After graduation, I worked as a full-time RA in Institute of Big Data and Information Science, USTB for one year. Then, I worked as TA and RA for Dan Zhao in Olin business school, WashU. To sum up, academic research plays an important part in my life, and I am really happy about it. 
+I am always keen on academic research. When I was in high school, Beijing No.35 high school, I attended a 1-year-long project with *the Chiness Academy of Science*, conducted a research on botany statistics and published the paper on *Bulletiin of Biology*. During my undergraduate in USTB, I kept looking for research oppurtunities and improving myself, worked as RA for 3 projects. After graduation, I worked as a full-time RA in *Institute of Big Data and Information Science, USTB* for one year. Then, I worked as TA and RA for Dan Zhao in *Olin business school, WashU*. To sum up, academic research plays an important part in my life, and I am really happy about it. 
 
 For the future, a oppurtunity for PHD would be my dream I heading for.
 
