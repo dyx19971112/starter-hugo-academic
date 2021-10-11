@@ -22,18 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: test
-    company: test
+  - title: Summer Intern
+    company: GuangFa security company
     company_url: ''
-    company_logo:
+    company_logo: 
     location: Beijing
-    date_start: '2020-04-01'
-    date_end: '2020-06-31'
+    date_start: '2021-06-01'
+    date_end: '2021-08-30'
     description: |2-
-        Responsiblities include:
+    Mainly responsible for an IPO project in Guizhou. The main work content includes: 
     
-        * test 
-        * test
+    * Company bank account verification
+    * participating in inventory counting
+    * participating in company data system verification
+
     
 design:
   columns: '2'
