@@ -37,7 +37,7 @@ experience:
         * participating in company data system verification
 
   - title: Full-time Research Assistant
-    company: Institute of Big Data and Information Science, School of Economics and Management, USTB
+    company: Institute of Big Data and Information Science School of Economics and Management USTB
     company_url: ''
     company_logo:
     location: Beijing
@@ -50,7 +50,7 @@ experience:
         * Used web crawler and SQL to capture and processing data. The amount of data is about 150,000.
     
   - title: Research Assistant
-    company: CCB Supply Chain Financial Co., Ltd
+    company: CCB Supply Chain Financial Co Ltd
     company_url: ''
     company_logo:
     location: Beijing
