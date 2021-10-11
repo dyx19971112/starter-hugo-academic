@@ -30,8 +30,8 @@ experience:
     company_url: ""
     company_logo: null
     location: Beijing
-    date_start: 2021-06-01
-    date_end: 2021-08-30
+    date_start: 2020-07-01
+    date_end: 2021-06-31
     description: >-2
         Mainly responsible for an IPO project in Guizhou. The main work content includes: 
 
