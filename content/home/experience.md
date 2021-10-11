@@ -25,7 +25,7 @@ experience:
         * participating in inventory counting
         * participating in company data system verification
 
-  - title: Full-time Research Assistant
+  - title: Full time Research Assistant
     company: Institute of Big Data and Information Science, USTB
     company_url: ""
     company_logo: null
@@ -47,10 +47,10 @@ experience:
     date_start: '2020-04-01'
     date_end: '2020-06-30'
     description: |2-
-    Responsiblities include:
+        Responsiblities include:
     
-    * By using Kunpeng & Shence data platform and SQL, analyze production conditions and user behaviors. 
-    * Complete data weekly and monthly reports, and provide advices for the department's digital operation strategy. 
+        * By using Kunpeng & Shence data platform and SQL, analyze production conditions and user behaviors. 
+        * Complete data weekly and monthly reports, and provide advices for the department's digital operation strategy. 
 
 widget_id: experience
 headless: true
