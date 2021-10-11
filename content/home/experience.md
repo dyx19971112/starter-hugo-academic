@@ -16,6 +16,20 @@ experience:
         * participating in inventory counting
         * participating in company data system verification
 
+  - title: Summer Interntest
+    company: GuangFa security company
+    company_url: ""
+    company_logo: null
+    location: Beijing
+    date_start: 2021-06-01
+    date_end: 2021-08-30
+    description: >-2
+        Mainly responsible for an IPO project in Guizhou. The main work content includes: 
+
+        * Company bank account verification
+        * participating in inventory counting
+        * participating in company data system verification
+
 widget_id: experience
 headless: true
 weight: 30
