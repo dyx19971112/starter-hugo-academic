@@ -45,7 +45,7 @@ experience:
     description: |2-
         Responsiblities include:
     
-        * By using Kunpeng & Shence data platform and SQL, analyzed production conditions and user behaviors. 
+        * By using Kunpeng and Shence data platform and SQL, analyzed production conditions and user behaviors. 
         * Completed data weekly and monthly reports, and provided advices for the department's digital operation strategy. 
     
  
