@@ -7,7 +7,7 @@ featured: false
 tags:
   - Economics analysis
 image:
-  filename: ""
+  filename: project_2.png
   focal_point: Smart
   preview_only: false
 ---
