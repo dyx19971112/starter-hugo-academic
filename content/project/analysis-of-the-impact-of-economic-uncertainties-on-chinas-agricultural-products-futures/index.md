@@ -4,6 +4,8 @@ title: Analysis of the Impact of Economic Uncertainties on China's Agricultural
 date: 2020-03-16T02:50:46.644Z
 draft: false
 featured: false
+tags:
+  - Time series analysis
 image:
   filename: project_1.png
   focal_point: Smart
