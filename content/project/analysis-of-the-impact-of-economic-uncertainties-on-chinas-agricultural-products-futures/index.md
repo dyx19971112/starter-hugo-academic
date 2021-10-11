@@ -7,8 +7,9 @@ featured: false
 tags:
   - Time series analysis
 image:
-  focal_point: TOP
+  focal_point: smart
   preview_only: false
+  filename: project.png
 ---
 Under the combined influence of economic and policy factors, the pricing mechanism of agricultural futures is complicated. From the perspective of economic policy uncertainty, this paper analyses the non-linear and dynamic inherent fluctuation structure of the agricultural product futures price index. Eight economic uncertain factors are selected, and the time interval is from June 2007 to June 2019.
 
