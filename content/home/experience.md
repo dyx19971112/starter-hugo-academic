@@ -26,7 +26,7 @@ experience:
         * participating in company data system verification
 
   - title: Full-time Research Assistant
-    company: Institute of Big Data and Information Science, School of Economics and Management, USTB
+    company: Institute of Big Data and Information Science
     company_url: ""
     company_logo: null
     location: Beijing
