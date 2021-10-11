@@ -25,8 +25,8 @@ experience:
         * participating in inventory counting
         * participating in company data system verification
 
-  - title: Summer Intern
-    company: GuangFa security company
+  - title: Full time Research Assistant
+    company: Institute of Big Data and Information Science, USTB
     company_url: ""
     company_logo: null
     location: Beijing
