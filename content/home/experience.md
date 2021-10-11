@@ -30,11 +30,11 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Responsiblities include:
+    
+        * By using Kunpeng & Shence data platform and SQL, analyze production conditions and user behaviors. 
+        * Complete data weekly and monthly reports, and provide advices for the department's digital operation strategy. 
+    
    
 design:
   columns: '2'
