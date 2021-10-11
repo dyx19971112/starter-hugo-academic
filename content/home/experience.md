@@ -35,8 +35,9 @@ experience:
     description: >-2
         Responsiblities include:
 
-        * Constructed a collaboration index, and calculated the collaboration competence of scholars in the required list. 
-        * Used web crawler and SQL to capture and processing data. The amount of data is about 150,000.
+        * Constructed an collaboration index
+        * Calculated the collaboration competence of scholars in the required list
+        * Used web crawler and SQL to capture and processing data
 
 widget_id: experience
 headless: true
