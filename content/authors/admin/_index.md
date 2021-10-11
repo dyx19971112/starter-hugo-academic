@@ -1,5 +1,5 @@
 ---
-title: Yuxuan Deng
+title: Yuxuan Dengg
 role: Student of Master in Business Analytics, Financial Technology
 avatar_filename: avatar.jpg
 bio: My research interests include mechine learning, time series analysis, etc.
