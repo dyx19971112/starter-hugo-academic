@@ -7,7 +7,6 @@ featured: false
 tags:
   - Time series analysis
 image:
-  filename: project_1.png
   focal_point: TOP
   preview_only: false
 ---
