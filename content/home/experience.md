@@ -9,7 +9,7 @@ experience:
     location: St. Louis, United States
     date_start: 2021-09-01
     date_end: 
-    description: test
+    description:  My mainly responsible is using SQL and python to construct the mechine learning (Orthogonal Random Forests) for the academic research. 
 
   - title: Summer Intern
     company: GuangFa security company
